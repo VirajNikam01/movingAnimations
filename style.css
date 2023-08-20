@@ -66,6 +66,8 @@ h1{
     font-size: 100px;
     font-weight: 800;
     text-align: center;
+    position: relative;
+    z-index: 99;
 }
 #main h1 span{
     background-color: brown;
